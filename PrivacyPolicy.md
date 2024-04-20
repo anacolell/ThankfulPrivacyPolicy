@@ -1,5 +1,7 @@
 # Privacy Policy
 
+**Last Updated: April 20, 2024**
+
 This Privacy Policy applies to the Thankful app (hereafter referred to as "Application"), a mobile device service created by Ana Colell (hereafter referred to as "Service Provider"). This service is provided free of charge and is intended for use "AS IS".
 
 ## Information Collection and Use
