@@ -4,7 +4,7 @@ This Privacy Policy applies to the Thankful app (hereafter referred to as "Appli
 
 ## Information Collection and Use
 
-The Application does not require users to create an account, and therefore, does not collect, store, or have access to any personally identifiable information except as detailed below:
+The Application does not require users to create an account, and therefore, does not collect, store, or have access to any personally identifiable information.
 
 We do not store or share any of your journal entries or app data in any format remotely.
 Your data is stored locally on your device. This means that if you uninstall the Application, all stored data will be deleted and cannot be recovered.
@@ -33,7 +33,7 @@ Google Play Services provides Android apps with access to Google functionalities
 
 Since the Application stores all user data locally and does not collect personal information, data retention by the Service Provider does not apply. Users are responsible for managing their data stored on their device.
 
-##Changes to This Privacy Policy
+## Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
